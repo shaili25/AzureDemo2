@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
+				"fileName": "part-00000-tid-622515548630852752-4f2e0775-506a-4772-b142-dfd66cd2c041-27-1-c000.csv",
 				"container": "input"
 			},
 			"columnDelimiter": ",",
