@@ -1047,7 +1047,7 @@
 							},
 							{
 								"source": {
-									"name": "Cumulative_TMMSPA",
+									"name": "Percentage Of Cum Payment",
 									"type": "String",
 									"physicalType": "String"
 								},
