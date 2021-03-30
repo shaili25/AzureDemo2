@@ -34,10 +34,6 @@
 						"type": "TabularTranslator",
 						"mappings": [
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 1
-								},
 								"sink": {
 									"name": "National_Provider_Identifier",
 									"type": "String",
@@ -45,10 +41,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 2
-								},
 								"sink": {
 									"name": "Last_Name_Organization_Name_of_the_Provider",
 									"type": "String",
@@ -56,10 +48,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 3
-								},
 								"sink": {
 									"name": "First_Name_of_the_Provider",
 									"type": "String",
@@ -67,10 +55,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 4
-								},
 								"sink": {
 									"name": "Middle_Initial_of_the_Provider",
 									"type": "String",
@@ -78,10 +62,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 5
-								},
 								"sink": {
 									"name": "Credentials_of_the_Provider",
 									"type": "String",
@@ -89,10 +69,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 6
-								},
 								"sink": {
 									"name": "Gender_of_the_Provider",
 									"type": "String",
@@ -100,10 +76,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 7
-								},
 								"sink": {
 									"name": "Entity_Type_of_the_Provider",
 									"type": "String",
@@ -111,10 +83,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 8
-								},
 								"sink": {
 									"name": "Street_Address_1_of_the_Provider",
 									"type": "String",
@@ -122,10 +90,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 9
-								},
 								"sink": {
 									"name": "Street_Address_2_of_the_Provider",
 									"type": "String",
@@ -133,10 +97,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 10
-								},
 								"sink": {
 									"name": "City_of_the_Provider",
 									"type": "String",
@@ -144,10 +104,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 11
-								},
 								"sink": {
 									"name": "Zip_Code_of_the_Provider",
 									"type": "String",
@@ -155,10 +111,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 12
-								},
 								"sink": {
 									"name": "Provider_RUCA",
 									"type": "String",
@@ -166,10 +118,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 13
-								},
 								"sink": {
 									"name": "State_Code_of_the_Provider",
 									"type": "String",
@@ -177,10 +125,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 14
-								},
 								"sink": {
 									"name": "Country_Code_of_the_Provider",
 									"type": "String",
@@ -188,10 +132,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 15
-								},
 								"sink": {
 									"name": "Provider_Type_of_the_Provider",
 									"type": "String",
@@ -199,10 +139,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 16
-								},
 								"sink": {
 									"name": "Medicare_Participation_Indicator",
 									"type": "String",
@@ -210,10 +146,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 17
-								},
 								"sink": {
 									"name": "Number_of_HCPCS",
 									"type": "Decimal",
@@ -223,10 +155,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 18
-								},
 								"sink": {
 									"name": "Number_of_Services",
 									"type": "Decimal",
@@ -236,10 +164,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 19
-								},
 								"sink": {
 									"name": "Number_of_Medicare_Beneficiaries",
 									"type": "Decimal",
@@ -249,10 +173,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 20
-								},
 								"sink": {
 									"name": "Total_Submitted_Charge_Amount",
 									"type": "Decimal",
@@ -262,10 +182,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 21
-								},
 								"sink": {
 									"name": "Total_Medicare_Allowed_Amount",
 									"type": "Decimal",
@@ -275,10 +191,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 22
-								},
 								"sink": {
 									"name": "Total_Medicare_Payment_Amount",
 									"type": "Decimal",
@@ -288,10 +200,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 23
-								},
 								"sink": {
 									"name": "Total_Medicare_Standardized_Payment_Amount",
 									"type": "Decimal",
@@ -301,10 +209,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 24
-								},
 								"sink": {
 									"name": "Drug_Suppress_Indicator",
 									"type": "String",
@@ -312,10 +216,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 25
-								},
 								"sink": {
 									"name": "Number_of_HCPCS_Associated_With_Drug_Services",
 									"type": "Decimal",
@@ -325,10 +225,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 26
-								},
 								"sink": {
 									"name": "Number_of_Drug_Services",
 									"type": "Decimal",
@@ -338,10 +234,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 27
-								},
 								"sink": {
 									"name": "Number_of_Medicare_Beneficiaries_With_Drug_Services",
 									"type": "Decimal",
@@ -351,10 +243,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 28
-								},
 								"sink": {
 									"name": "Total_Drug_Submitted_Charge_Amount",
 									"type": "Decimal",
@@ -364,10 +252,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 29
-								},
 								"sink": {
 									"name": "Total_Drug_Medicare_Allowed_Amount",
 									"type": "Decimal",
@@ -377,10 +261,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 30
-								},
 								"sink": {
 									"name": "Total_Drug_Medicare_Payment_Amount",
 									"type": "Decimal",
@@ -390,10 +270,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 31
-								},
 								"sink": {
 									"name": "Total_Drug_Medicare_Standardized_Payment_Amount",
 									"type": "Decimal",
@@ -403,10 +279,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 32
-								},
 								"sink": {
 									"name": "Medical_Suppress_Indicator",
 									"type": "String",
@@ -414,10 +286,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 33
-								},
 								"sink": {
 									"name": "Number_of_HCPCS_Associated_With_Medical_Services",
 									"type": "Decimal",
@@ -427,10 +295,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 34
-								},
 								"sink": {
 									"name": "Number_of_Medical_Services",
 									"type": "Decimal",
@@ -440,10 +304,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 35
-								},
 								"sink": {
 									"name": "Number_of_Medicare_Beneficiaries_With_Medical_Services",
 									"type": "Decimal",
@@ -453,10 +313,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 36
-								},
 								"sink": {
 									"name": "Total_Medical_Submitted_Charge_Amount",
 									"type": "Decimal",
@@ -466,10 +322,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 37
-								},
 								"sink": {
 									"name": "Total_Medical_Medicare_Allowed_Amount",
 									"type": "Decimal",
@@ -479,10 +331,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 38
-								},
 								"sink": {
 									"name": "Total_Medical_Medicare_Payment_Amount",
 									"type": "Decimal",
@@ -492,10 +340,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 39
-								},
 								"sink": {
 									"name": "Total_Medical_Medicare_Standardized_Payment_Amount",
 									"type": "Decimal",
@@ -505,10 +349,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 40
-								},
 								"sink": {
 									"name": "Average_Age_of_Beneficiaries",
 									"type": "Decimal",
@@ -518,10 +358,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 41
-								},
 								"sink": {
 									"name": "Number_of_Beneficiaries_Age_Less_65",
 									"type": "Decimal",
@@ -531,10 +367,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 42
-								},
 								"sink": {
 									"name": "Number_of_Beneficiaries_Age_65_to_74",
 									"type": "Decimal",
@@ -544,10 +376,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 43
-								},
 								"sink": {
 									"name": "Number_of_Beneficiaries_Age_75_to_84",
 									"type": "Decimal",
@@ -557,10 +385,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 44
-								},
 								"sink": {
 									"name": "Number_of_Beneficiaries_Age_Greater_84",
 									"type": "Decimal",
@@ -570,10 +394,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 45
-								},
 								"sink": {
 									"name": "Number_of_Female_Beneficiaries",
 									"type": "Decimal",
@@ -583,10 +403,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 46
-								},
 								"sink": {
 									"name": "Number_of_Male_Beneficiaries",
 									"type": "Decimal",
@@ -596,10 +412,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 47
-								},
 								"sink": {
 									"name": "Number_of_Non_Hispanic_White_Beneficiaries",
 									"type": "Decimal",
@@ -609,10 +421,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 48
-								},
 								"sink": {
 									"name": "Number_of_Black_or_African_American_Beneficiaries",
 									"type": "Decimal",
@@ -622,10 +430,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 49
-								},
 								"sink": {
 									"name": "Number_of_Asian_Pacific_Islander_Beneficiaries",
 									"type": "Decimal",
@@ -635,10 +439,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 50
-								},
 								"sink": {
 									"name": "Number_of_Hispanic_Beneficiaries",
 									"type": "Decimal",
@@ -648,10 +448,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 51
-								},
 								"sink": {
 									"name": "Number_of_American_Indian_Alaska_Native_Beneficiaries",
 									"type": "Decimal",
@@ -661,10 +457,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 52
-								},
 								"sink": {
 									"name": "Number_of_Beneficiaries_With_Race_Not_Elsewhere_Classified",
 									"type": "Decimal",
@@ -674,10 +466,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 53
-								},
 								"sink": {
 									"name": "Number_of_Beneficiaries_With_Medicare_Only_Entitlement",
 									"type": "Decimal",
@@ -687,10 +475,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 54
-								},
 								"sink": {
 									"name": "Number_of_Beneficiaries_With_Medicare_Medicaid_Entitlement",
 									"type": "Decimal",
@@ -700,10 +484,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 55
-								},
 								"sink": {
 									"name": "Percent_of_Beneficiaries_Identified_With_Atrial_Fibrillation",
 									"type": "Decimal",
@@ -713,10 +493,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 56
-								},
 								"sink": {
 									"name": "Percent_of_Beneficiaries_Identified_With_Alzheimers_Disease_or_Dementia",
 									"type": "Decimal",
@@ -726,10 +502,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 57
-								},
 								"sink": {
 									"name": "Percent_of_Beneficiaries_Identified_With_Asthma",
 									"type": "Decimal",
@@ -739,10 +511,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 58
-								},
 								"sink": {
 									"name": "Percent_of_Beneficiaries_Identified_With_Cancer",
 									"type": "Decimal",
@@ -752,10 +520,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 59
-								},
 								"sink": {
 									"name": "Percent_of_Beneficiaries_Identified_With_Heart_Failure",
 									"type": "Decimal",
@@ -765,10 +529,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 60
-								},
 								"sink": {
 									"name": "Percent_of_Beneficiaries_Identified_With_Chronic_Kidney_Disease",
 									"type": "Decimal",
@@ -778,10 +538,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 61
-								},
 								"sink": {
 									"name": "Percent_of_Beneficiaries_Identified_With_Chronic_Obstructive_Pulmonary_Disease",
 									"type": "Decimal",
@@ -791,10 +547,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 62
-								},
 								"sink": {
 									"name": "Percent_of_Beneficiaries_Identified_With_Depression",
 									"type": "Decimal",
@@ -804,10 +556,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 63
-								},
 								"sink": {
 									"name": "Percent_of_Beneficiaries_Identified_With_Diabetes",
 									"type": "Decimal",
@@ -817,10 +565,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 64
-								},
 								"sink": {
 									"name": "Percent_of_Beneficiaries_Identified_With_Hyperlipidemia",
 									"type": "Decimal",
@@ -830,10 +574,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 65
-								},
 								"sink": {
 									"name": "Percent_of_Beneficiaries_Identified_With_Hypertension",
 									"type": "Decimal",
@@ -843,10 +583,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 66
-								},
 								"sink": {
 									"name": "Percent_of_Beneficiaries_Identified_With_Ischemic_Heart_Disease",
 									"type": "Decimal",
@@ -856,10 +592,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 67
-								},
 								"sink": {
 									"name": "Percent_of_Beneficiaries_Identified_With_Osteoporosis",
 									"type": "Decimal",
@@ -869,10 +601,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 68
-								},
 								"sink": {
 									"name": "Percent_of_Beneficiaries_Identified_With_Rheumatoid_Arthritis_Osteoarthritis",
 									"type": "Decimal",
@@ -882,10 +610,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 69
-								},
 								"sink": {
 									"name": "Percent_of_Beneficiaries_Identified_With_Schizophrenia_Other_Psychotic_Disorders",
 									"type": "Decimal",
@@ -895,10 +619,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 70
-								},
 								"sink": {
 									"name": "Percent_of_Beneficiaries_Identified_With_Stroke",
 									"type": "Decimal",
@@ -908,10 +628,6 @@
 								}
 							},
 							{
-								"source": {
-									"type": "String",
-									"ordinal": 71
-								},
 								"sink": {
 									"name": "Average_HCC_Risk_Score_of_Beneficiaries",
 									"type": "Decimal",
@@ -922,8 +638,23 @@
 							},
 							{
 								"source": {
+									"name": "Cumulative_Numberof_Medicare_Beneficiaries",
 									"type": "String",
-									"ordinal": 72
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "Cumulative_Numberof_Medicare_Beneficiaries",
+									"type": "Decimal",
+									"physicalType": "decimal",
+									"scale": 3,
+									"precision": 18
+								}
+							},
+							{
+								"source": {
+									"name": "Cumulative_TMMSPA",
+									"type": "String",
+									"physicalType": "String"
 								},
 								"sink": {
 									"name": "Cumulative_TMMSPA",
@@ -935,15 +666,56 @@
 							},
 							{
 								"source": {
+									"name": "TempColumn",
 									"type": "String",
-									"ordinal": 73
+									"physicalType": "String"
 								},
 								"sink": {
-									"name": "Cumulative_Numberof_Medicare_Beneficiaries",
+									"name": "TempColumn",
+									"type": "String",
+									"physicalType": "varchar"
+								}
+							},
+							{
+								"sink": {
+									"name": "percentage_Cum_Num_of_Medicare_Ben",
 									"type": "Decimal",
 									"physicalType": "decimal",
-									"scale": 3,
+									"scale": 6,
 									"precision": 18
+								}
+							},
+							{
+								"sink": {
+									"name": "percentage_Cum_TMMSPA",
+									"type": "Decimal",
+									"physicalType": "decimal",
+									"scale": 6,
+									"precision": 18
+								}
+							},
+							{
+								"source": {
+									"name": "Beneficiary_Segment",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "Beneficiary_Segment",
+									"type": "Int32",
+									"physicalType": "int"
+								}
+							},
+							{
+								"source": {
+									"name": "Payment_Segment",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "Payment_Segment",
+									"type": "Int32",
+									"physicalType": "int"
 								}
 							}
 						],
@@ -956,7 +728,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "TransformedCSV",
+						"referenceName": "TransformedCSV2",
 						"type": "DatasetReference"
 					}
 				],
