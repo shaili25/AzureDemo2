@@ -1,6 +1,7 @@
 {
 	"name": "Medicare CSV to transformed CSV",
 	"properties": {
+		"description": "Running Dataflow transformations",
 		"activities": [
 			{
 				"name": "Data flow3",
