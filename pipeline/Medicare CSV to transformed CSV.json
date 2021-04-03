@@ -1,5 +1,5 @@
 {
-	"name": "transformed CSV to sql",
+	"name": "Medicare CSV to transformed CSV",
 	"properties": {
 		"activities": [
 			{
