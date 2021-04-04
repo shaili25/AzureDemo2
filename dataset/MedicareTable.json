@@ -401,7 +401,7 @@
 		],
 		"typeProperties": {
 			"schema": "dbo",
-			"table": "Medicare_Output_Schema3"
+			"table": "Medicare_Output_Schema4"
 		}
 	}
 }
