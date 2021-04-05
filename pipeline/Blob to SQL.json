@@ -1093,7 +1093,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "TransformedCSV2",
+						"referenceName": "TransformedCSV",
 						"type": "DatasetReference"
 					}
 				],
